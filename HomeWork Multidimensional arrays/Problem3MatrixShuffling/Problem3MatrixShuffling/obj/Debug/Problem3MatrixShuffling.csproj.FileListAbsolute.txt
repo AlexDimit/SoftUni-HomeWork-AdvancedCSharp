@@ -1,0 +1,6 @@
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem3MatrixShuffling\Problem3MatrixShuffling\bin\Debug\Problem3MatrixShuffling.exe.config
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem3MatrixShuffling\Problem3MatrixShuffling\bin\Debug\Problem3MatrixShuffling.exe
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem3MatrixShuffling\Problem3MatrixShuffling\bin\Debug\Problem3MatrixShuffling.pdb
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem3MatrixShuffling\Problem3MatrixShuffling\obj\Debug\Problem3MatrixShuffling.csprojResolveAssemblyReference.cache
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem3MatrixShuffling\Problem3MatrixShuffling\obj\Debug\Problem3MatrixShuffling.exe
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem3MatrixShuffling\Problem3MatrixShuffling\obj\Debug\Problem3MatrixShuffling.pdb

@@ -1,0 +1,6 @@
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem2StringLength\Problem2StringLength\bin\Debug\Problem2StringLength.exe.config
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem2StringLength\Problem2StringLength\obj\Debug\Problem2StringLength.csprojResolveAssemblyReference.cache
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem2StringLength\Problem2StringLength\bin\Debug\Problem2StringLength.exe
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem2StringLength\Problem2StringLength\bin\Debug\Problem2StringLength.pdb
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem2StringLength\Problem2StringLength\obj\Debug\Problem2StringLength.exe
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem2StringLength\Problem2StringLength\obj\Debug\Problem2StringLength.pdb

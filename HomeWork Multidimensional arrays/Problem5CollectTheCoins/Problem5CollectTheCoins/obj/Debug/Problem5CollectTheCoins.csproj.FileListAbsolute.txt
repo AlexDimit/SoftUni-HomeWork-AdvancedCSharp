@@ -1,0 +1,12 @@
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem5CollectTheCoins\Problem5CollectTheCoins\bin\Debug\Problem5CollectTheCoins.exe.config
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem5CollectTheCoins\Problem5CollectTheCoins\bin\Debug\Problem5CollectTheCoins.exe
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem5CollectTheCoins\Problem5CollectTheCoins\bin\Debug\Problem5CollectTheCoins.pdb
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem5CollectTheCoins\Problem5CollectTheCoins\obj\Debug\Problem5CollectTheCoins.csprojResolveAssemblyReference.cache
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem5CollectTheCoins\Problem5CollectTheCoins\obj\Debug\Problem5CollectTheCoins.exe
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem5CollectTheCoins\Problem5CollectTheCoins\obj\Debug\Problem5CollectTheCoins.pdb
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem5CollectTheCoins - wtfCycleLOOL\Problem5CollectTheCoins\bin\Debug\Problem5CollectTheCoins.exe.config
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem5CollectTheCoins - wtfCycleLOOL\Problem5CollectTheCoins\obj\Debug\Problem5CollectTheCoins.exe
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem5CollectTheCoins - wtfCycleLOOL\Problem5CollectTheCoins\obj\Debug\Problem5CollectTheCoins.pdb
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem5CollectTheCoins - wtfCycleLOOL\Problem5CollectTheCoins\bin\Debug\Problem5CollectTheCoins.exe
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem5CollectTheCoins - wtfCycleLOOL\Problem5CollectTheCoins\bin\Debug\Problem5CollectTheCoins.pdb
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem5CollectTheCoins - wtfCycleLOOL\Problem5CollectTheCoins\obj\Debug\Problem5CollectTheCoins.csprojResolveAssemblyReference.cache

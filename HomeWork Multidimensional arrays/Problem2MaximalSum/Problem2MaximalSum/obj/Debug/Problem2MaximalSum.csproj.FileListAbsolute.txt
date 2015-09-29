@@ -1,0 +1,6 @@
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem2MaximalSum\Problem2MaximalSum\bin\Debug\Problem2MaximalSum.exe.config
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem2MaximalSum\Problem2MaximalSum\bin\Debug\Problem2MaximalSum.exe
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem2MaximalSum\Problem2MaximalSum\bin\Debug\Problem2MaximalSum.pdb
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem2MaximalSum\Problem2MaximalSum\obj\Debug\Problem2MaximalSum.csprojResolveAssemblyReference.cache
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem2MaximalSum\Problem2MaximalSum\obj\Debug\Problem2MaximalSum.exe
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem2MaximalSum\Problem2MaximalSum\obj\Debug\Problem2MaximalSum.pdb

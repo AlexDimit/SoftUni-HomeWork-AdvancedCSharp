@@ -1,0 +1,6 @@
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem7PhoneBook\Problem7PhoneBook\bin\Debug\Problem7PhoneBook.exe.config
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem7PhoneBook\Problem7PhoneBook\bin\Debug\Problem7PhoneBook.exe
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem7PhoneBook\Problem7PhoneBook\bin\Debug\Problem7PhoneBook.pdb
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem7PhoneBook\Problem7PhoneBook\obj\Debug\Problem7PhoneBook.csprojResolveAssemblyReference.cache
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem7PhoneBook\Problem7PhoneBook\obj\Debug\Problem7PhoneBook.exe
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem7PhoneBook\Problem7PhoneBook\obj\Debug\Problem7PhoneBook.pdb

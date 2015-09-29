@@ -1,0 +1,6 @@
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem7LettersChangeNumbers\Problem7LettersChangeNumbers\bin\Debug\Problem7LettersChangeNumbers.exe.config
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem7LettersChangeNumbers\Problem7LettersChangeNumbers\bin\Debug\Problem7LettersChangeNumbers.exe
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem7LettersChangeNumbers\Problem7LettersChangeNumbers\bin\Debug\Problem7LettersChangeNumbers.pdb
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem7LettersChangeNumbers\Problem7LettersChangeNumbers\obj\Debug\Problem7LettersChangeNumbers.csprojResolveAssemblyReference.cache
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem7LettersChangeNumbers\Problem7LettersChangeNumbers\obj\Debug\Problem7LettersChangeNumbers.exe
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem7LettersChangeNumbers\Problem7LettersChangeNumbers\obj\Debug\Problem7LettersChangeNumbers.pdb

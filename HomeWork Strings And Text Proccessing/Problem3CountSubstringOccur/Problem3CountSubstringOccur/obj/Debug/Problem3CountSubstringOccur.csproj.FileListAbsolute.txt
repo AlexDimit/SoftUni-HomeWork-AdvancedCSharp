@@ -1,0 +1,6 @@
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem3CountSubstringOccur\Problem3CountSubstringOccur\bin\Debug\Problem3CountSubstringOccur.exe.config
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem3CountSubstringOccur\Problem3CountSubstringOccur\obj\Debug\Problem3CountSubstringOccur.csprojResolveAssemblyReference.cache
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem3CountSubstringOccur\Problem3CountSubstringOccur\bin\Debug\Problem3CountSubstringOccur.exe
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem3CountSubstringOccur\Problem3CountSubstringOccur\bin\Debug\Problem3CountSubstringOccur.pdb
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem3CountSubstringOccur\Problem3CountSubstringOccur\obj\Debug\Problem3CountSubstringOccur.exe
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem3CountSubstringOccur\Problem3CountSubstringOccur\obj\Debug\Problem3CountSubstringOccur.pdb

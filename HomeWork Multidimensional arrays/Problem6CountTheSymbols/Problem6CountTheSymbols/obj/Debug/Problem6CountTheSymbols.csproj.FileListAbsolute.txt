@@ -1,0 +1,6 @@
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem6CountTheSymbols\Problem6CountTheSymbols\bin\Debug\Problem6CountTheSymbols.exe.config
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem6CountTheSymbols\Problem6CountTheSymbols\bin\Debug\Problem6CountTheSymbols.exe
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem6CountTheSymbols\Problem6CountTheSymbols\bin\Debug\Problem6CountTheSymbols.pdb
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem6CountTheSymbols\Problem6CountTheSymbols\obj\Debug\Problem6CountTheSymbols.csprojResolveAssemblyReference.cache
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem6CountTheSymbols\Problem6CountTheSymbols\obj\Debug\Problem6CountTheSymbols.exe
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem6CountTheSymbols\Problem6CountTheSymbols\obj\Debug\Problem6CountTheSymbols.pdb

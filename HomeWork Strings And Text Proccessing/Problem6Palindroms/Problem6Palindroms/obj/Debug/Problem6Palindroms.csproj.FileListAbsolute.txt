@@ -1,0 +1,6 @@
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem6Palindroms\Problem6Palindroms\bin\Debug\Problem6Palindroms.exe.config
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem6Palindroms\Problem6Palindroms\obj\Debug\Problem6Palindroms.csprojResolveAssemblyReference.cache
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem6Palindroms\Problem6Palindroms\bin\Debug\Problem6Palindroms.exe
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem6Palindroms\Problem6Palindroms\bin\Debug\Problem6Palindroms.pdb
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem6Palindroms\Problem6Palindroms\obj\Debug\Problem6Palindroms.exe
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem6Palindroms\Problem6Palindroms\obj\Debug\Problem6Palindroms.pdb

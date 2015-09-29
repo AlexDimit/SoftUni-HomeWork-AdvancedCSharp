@@ -1,0 +1,6 @@
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\3rd lecture\HomeWork\Problem4FirstLargerThanNeighb\Problem4FirstLargerThanNeighb\bin\Debug\Problem4FirstLargerThanNeighb.exe.config
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\3rd lecture\HomeWork\Problem4FirstLargerThanNeighb\Problem4FirstLargerThanNeighb\bin\Debug\Problem4FirstLargerThanNeighb.exe
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\3rd lecture\HomeWork\Problem4FirstLargerThanNeighb\Problem4FirstLargerThanNeighb\bin\Debug\Problem4FirstLargerThanNeighb.pdb
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\3rd lecture\HomeWork\Problem4FirstLargerThanNeighb\Problem4FirstLargerThanNeighb\obj\Debug\Problem4FirstLargerThanNeighb.csprojResolveAssemblyReference.cache
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\3rd lecture\HomeWork\Problem4FirstLargerThanNeighb\Problem4FirstLargerThanNeighb\obj\Debug\Problem4FirstLargerThanNeighb.exe
+D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\3rd lecture\HomeWork\Problem4FirstLargerThanNeighb\Problem4FirstLargerThanNeighb\obj\Debug\Problem4FirstLargerThanNeighb.pdb
