@@ -1,9 +1,0 @@
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\Problem1FillTheMatrix\Problem1FillTheMatrix\bin\Debug\Problem1FillTheMatrix.exe.config
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\Problem1FillTheMatrix\Problem1FillTheMatrix\bin\Debug\Problem1FillTheMatrix.exe
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\Problem1FillTheMatrix\Problem1FillTheMatrix\bin\Debug\Problem1FillTheMatrix.pdb
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\Problem1FillTheMatrix\Problem1FillTheMatrix\obj\Debug\Problem1FillTheMatrix.csprojResolveAssemblyReference.cache
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\Problem1FillTheMatrix\Problem1FillTheMatrix\obj\Debug\Problem1FillTheMatrix.exe
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\Problem1FillTheMatrix\Problem1FillTheMatrix\obj\Debug\Problem1FillTheMatrix.pdb
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem1FillTheMatrix\Problem1FillTheMatrix\bin\Debug\Problem1FillTheMatrix.exe.config
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem1FillTheMatrix\Problem1FillTheMatrix\obj\Debug\Problem1FillTheMatrix.exe
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem1FillTheMatrix\Problem1FillTheMatrix\obj\Debug\Problem1FillTheMatrix.pdb

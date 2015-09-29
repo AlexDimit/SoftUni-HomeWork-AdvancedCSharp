@@ -1,6 +1,0 @@
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\3rd lecture\HomeWork\Problem5ReverseNumber\Problem5ReverseNumber\bin\Debug\Problem5ReverseNumber.exe.config
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\3rd lecture\HomeWork\Problem5ReverseNumber\Problem5ReverseNumber\bin\Debug\Problem5ReverseNumber.exe
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\3rd lecture\HomeWork\Problem5ReverseNumber\Problem5ReverseNumber\bin\Debug\Problem5ReverseNumber.pdb
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\3rd lecture\HomeWork\Problem5ReverseNumber\Problem5ReverseNumber\obj\Debug\Problem5ReverseNumber.csprojResolveAssemblyReference.cache
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\3rd lecture\HomeWork\Problem5ReverseNumber\Problem5ReverseNumber\obj\Debug\Problem5ReverseNumber.exe
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\3rd lecture\HomeWork\Problem5ReverseNumber\Problem5ReverseNumber\obj\Debug\Problem5ReverseNumber.pdb

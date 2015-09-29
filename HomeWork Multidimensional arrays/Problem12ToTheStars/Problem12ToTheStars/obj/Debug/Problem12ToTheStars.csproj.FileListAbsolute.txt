@@ -1,6 +1,0 @@
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem12ToTheStars\Problem12ToTheStars\bin\Debug\Problem12ToTheStars.exe.config
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem12ToTheStars\Problem12ToTheStars\bin\Debug\Problem12ToTheStars.exe
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem12ToTheStars\Problem12ToTheStars\bin\Debug\Problem12ToTheStars.pdb
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem12ToTheStars\Problem12ToTheStars\obj\Debug\Problem12ToTheStars.csprojResolveAssemblyReference.cache
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem12ToTheStars\Problem12ToTheStars\obj\Debug\Problem12ToTheStars.exe
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem12ToTheStars\Problem12ToTheStars\obj\Debug\Problem12ToTheStars.pdb

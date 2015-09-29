@@ -1,6 +1,0 @@
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\3rd lecture\HomeWork\Problem3LargerThanNeighbours\Problem3LargerThanNeighbours\bin\Debug\Problem3LargerThanNeighbours.exe.config
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\3rd lecture\HomeWork\Problem3LargerThanNeighbours\Problem3LargerThanNeighbours\obj\Debug\Problem3LargerThanNeighbours.csprojResolveAssemblyReference.cache
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\3rd lecture\HomeWork\Problem3LargerThanNeighbours\Problem3LargerThanNeighbours\bin\Debug\Problem3LargerThanNeighbours.exe
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\3rd lecture\HomeWork\Problem3LargerThanNeighbours\Problem3LargerThanNeighbours\bin\Debug\Problem3LargerThanNeighbours.pdb
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\3rd lecture\HomeWork\Problem3LargerThanNeighbours\Problem3LargerThanNeighbours\obj\Debug\Problem3LargerThanNeighbours.exe
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\3rd lecture\HomeWork\Problem3LargerThanNeighbours\Problem3LargerThanNeighbours\obj\Debug\Problem3LargerThanNeighbours.pdb

@@ -1,6 +1,0 @@
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem9TerroristsWin!\Problem9TerroristsWin!\bin\Debug\Problem9TerroristsWin!.exe.config
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem9TerroristsWin!\Problem9TerroristsWin!\bin\Debug\Problem9TerroristsWin!.exe
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem9TerroristsWin!\Problem9TerroristsWin!\bin\Debug\Problem9TerroristsWin!.pdb
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem9TerroristsWin!\Problem9TerroristsWin!\obj\Debug\Problem9TerroristsWin!.csprojResolveAssemblyReference.cache
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem9TerroristsWin!\Problem9TerroristsWin!\obj\Debug\Problem9TerroristsWin!.exe
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem9TerroristsWin!\Problem9TerroristsWin!\obj\Debug\Problem9TerroristsWin!.pdb

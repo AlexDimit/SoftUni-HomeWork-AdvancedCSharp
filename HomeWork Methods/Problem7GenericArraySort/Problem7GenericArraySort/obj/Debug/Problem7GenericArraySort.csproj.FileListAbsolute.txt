@@ -1,6 +1,0 @@
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\3rd lecture\HomeWork\Problem7GenericArraySort\Problem7GenericArraySort\bin\Debug\Problem7GenericArraySort.exe.config
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\3rd lecture\HomeWork\Problem7GenericArraySort\Problem7GenericArraySort\bin\Debug\Problem7GenericArraySort.exe
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\3rd lecture\HomeWork\Problem7GenericArraySort\Problem7GenericArraySort\bin\Debug\Problem7GenericArraySort.pdb
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\3rd lecture\HomeWork\Problem7GenericArraySort\Problem7GenericArraySort\obj\Debug\Problem7GenericArraySort.csprojResolveAssemblyReference.cache
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\3rd lecture\HomeWork\Problem7GenericArraySort\Problem7GenericArraySort\obj\Debug\Problem7GenericArraySort.exe
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\3rd lecture\HomeWork\Problem7GenericArraySort\Problem7GenericArraySort\obj\Debug\Problem7GenericArraySort.pdb

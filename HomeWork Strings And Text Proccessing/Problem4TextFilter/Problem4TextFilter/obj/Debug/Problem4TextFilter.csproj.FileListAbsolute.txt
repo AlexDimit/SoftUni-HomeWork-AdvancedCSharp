@@ -1,6 +1,0 @@
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem4TextFilter\Problem4TextFilter\bin\Debug\Problem4TextFilter.exe.config
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem4TextFilter\Problem4TextFilter\bin\Debug\Problem4TextFilter.exe
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem4TextFilter\Problem4TextFilter\bin\Debug\Problem4TextFilter.pdb
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem4TextFilter\Problem4TextFilter\obj\Debug\Problem4TextFilter.csprojResolveAssemblyReference.cache
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem4TextFilter\Problem4TextFilter\obj\Debug\Problem4TextFilter.exe
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem4TextFilter\Problem4TextFilter\obj\Debug\Problem4TextFilter.pdb

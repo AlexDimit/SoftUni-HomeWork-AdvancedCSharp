@@ -1,6 +1,0 @@
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem5UnicodeCharecters\Problem5UnicodeCharecters\bin\Debug\Problem5UnicodeCharecters.exe.config
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem5UnicodeCharecters\Problem5UnicodeCharecters\bin\Debug\Problem5UnicodeCharecters.exe
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem5UnicodeCharecters\Problem5UnicodeCharecters\bin\Debug\Problem5UnicodeCharecters.pdb
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem5UnicodeCharecters\Problem5UnicodeCharecters\obj\Debug\Problem5UnicodeCharecters.csprojResolveAssemblyReference.cache
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem5UnicodeCharecters\Problem5UnicodeCharecters\obj\Debug\Problem5UnicodeCharecters.exe
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem5UnicodeCharecters\Problem5UnicodeCharecters\obj\Debug\Problem5UnicodeCharecters.pdb

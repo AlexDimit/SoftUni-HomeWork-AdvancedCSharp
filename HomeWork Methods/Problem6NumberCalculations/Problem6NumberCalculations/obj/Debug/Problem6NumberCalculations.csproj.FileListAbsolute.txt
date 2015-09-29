@@ -1,6 +1,0 @@
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\3rd lecture\HomeWork\Problem6NumberCalculations\Problem6NumberCalculations\bin\Debug\Problem6NumberCalculations.exe.config
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\3rd lecture\HomeWork\Problem6NumberCalculations\Problem6NumberCalculations\bin\Debug\Problem6NumberCalculations.exe
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\3rd lecture\HomeWork\Problem6NumberCalculations\Problem6NumberCalculations\bin\Debug\Problem6NumberCalculations.pdb
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\3rd lecture\HomeWork\Problem6NumberCalculations\Problem6NumberCalculations\obj\Debug\Problem6NumberCalculations.csprojResolveAssemblyReference.cache
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\3rd lecture\HomeWork\Problem6NumberCalculations\Problem6NumberCalculations\obj\Debug\Problem6NumberCalculations.exe
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\3rd lecture\HomeWork\Problem6NumberCalculations\Problem6NumberCalculations\obj\Debug\Problem6NumberCalculations.pdb

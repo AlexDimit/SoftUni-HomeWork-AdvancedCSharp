@@ -1,6 +1,0 @@
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem1ReverseString\Problem1ReverseString\bin\Debug\Problem1ReverseString.exe.config
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem1ReverseString\Problem1ReverseString\obj\Debug\Problem1ReverseString.csprojResolveAssemblyReference.cache
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem1ReverseString\Problem1ReverseString\bin\Debug\Problem1ReverseString.exe
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem1ReverseString\Problem1ReverseString\bin\Debug\Problem1ReverseString.pdb
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem1ReverseString\Problem1ReverseString\obj\Debug\Problem1ReverseString.exe
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\4th lecture\HomeWork\Problem1ReverseString\Problem1ReverseString\obj\Debug\Problem1ReverseString.pdb

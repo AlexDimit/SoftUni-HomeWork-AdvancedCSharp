@@ -1,6 +1,0 @@
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem8NightLife\Problem8NightLife\bin\Debug\Problem8NightLife.exe.config
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem8NightLife\Problem8NightLife\bin\Debug\Problem8NightLife.exe
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem8NightLife\Problem8NightLife\bin\Debug\Problem8NightLife.pdb
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem8NightLife\Problem8NightLife\obj\Debug\Problem8NightLife.csprojResolveAssemblyReference.cache
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem8NightLife\Problem8NightLife\obj\Debug\Problem8NightLife.exe
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem8NightLife\Problem8NightLife\obj\Debug\Problem8NightLife.pdb

@@ -1,6 +1,0 @@
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem11StringMatrixRotation\Problem11StringMatrixRotation\bin\Debug\Problem11StringMatrixRotation.exe.config
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem11StringMatrixRotation\Problem11StringMatrixRotation\bin\Debug\Problem11StringMatrixRotation.exe
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem11StringMatrixRotation\Problem11StringMatrixRotation\bin\Debug\Problem11StringMatrixRotation.pdb
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem11StringMatrixRotation\Problem11StringMatrixRotation\obj\Debug\Problem11StringMatrixRotation.csprojResolveAssemblyReference.cache
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem11StringMatrixRotation\Problem11StringMatrixRotation\obj\Debug\Problem11StringMatrixRotation.exe
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\2nd lecture\HomeWork\Problem11StringMatrixRotation\Problem11StringMatrixRotation\obj\Debug\Problem11StringMatrixRotation.pdb

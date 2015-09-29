@@ -1,6 +1,0 @@
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\3rd lecture\HomeWork\Problem1BiggerNumber\Problem1BiggerNumber\bin\Debug\Problem1BiggerNumber.exe.config
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\3rd lecture\HomeWork\Problem1BiggerNumber\Problem1BiggerNumber\bin\Debug\Problem1BiggerNumber.exe
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\3rd lecture\HomeWork\Problem1BiggerNumber\Problem1BiggerNumber\bin\Debug\Problem1BiggerNumber.pdb
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\3rd lecture\HomeWork\Problem1BiggerNumber\Problem1BiggerNumber\obj\Debug\Problem1BiggerNumber.csprojResolveAssemblyReference.cache
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\3rd lecture\HomeWork\Problem1BiggerNumber\Problem1BiggerNumber\obj\Debug\Problem1BiggerNumber.exe
-D:\LEARNING!\SoftUni\My studying in Uni\Fundamentals\Advanced C#\3rd lecture\HomeWork\Problem1BiggerNumber\Problem1BiggerNumber\obj\Debug\Problem1BiggerNumber.pdb
